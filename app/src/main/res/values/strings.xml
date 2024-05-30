@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Asteroids</string>
+    <string name="move">move</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="shoot">shoot</string>
+    <string name="pause">pause</string>
+    <string name="ship">ship</string>
+    <string name="menu">menu</string>
+    <string name="retry">retry</string>
+    <string name="continue2">continue2</string>
+    <string name="playagain">playagain</string>
+    <string name="menu2">menu2</string>
+    <string name="title">title</string>
+    <string name="gameover">gameOver</string>
+</resources>
